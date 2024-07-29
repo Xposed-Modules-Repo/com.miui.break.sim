@@ -6,4 +6,4 @@ Please try **not** to select **any** system apps in the scope, this may make you
 
 miui usb安装无需sim卡、安装时不会弹框提示了
 
-适配LSPosed，选中‘手机管家’。
+适配LSPosed，勾选‘手机管家’。
